@@ -12,5 +12,4 @@ The customer should be allocated a parking slot that is nearest to the entry. At
 
 # How to run the file:
 
-# To run the file use command:
-# ./file input.txt in shell
+To run the file use command: ./file input.txt in shell
