@@ -9,3 +9,8 @@ And we are allocating an available parking slot to the car before actually handi
 The customer should be allocated a parking slot that is nearest to the entry. At the exit, the customer returns the ticket, marking the slot they were using as being available.
 
 ![Process](https://user-images.githubusercontent.com/80398182/134773238-4b85a2bb-dc35-4d8d-b359-acc2263a0d84.png)
+
+# How to run the file:
+
+# To run the file use command:
+# ./file input.txt in shell
